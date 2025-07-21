@@ -9,7 +9,7 @@ Like fP desktop but for mobile.
 3. Paste this URL plugins:
 
 ```
-https://gujarathisampath.github.io/fakeProfile-mobile-plugin/
+fakeprofilemobile.is-always.online
 ```
 
 4. Active plugin and feauture in plugin setting
