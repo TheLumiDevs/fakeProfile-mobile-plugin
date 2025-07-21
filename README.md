@@ -1,7 +1,19 @@
-# Vendetta Plugin Template
-This repo contains a template for creating a [Vendetta](https://github.com/vendetta-mod/Vendetta) plugin.
+# fakeProfile Mobile Plugin
 
-# How to install?
-Paste this plugin's URL into the Plugins page of Vendetta, following a basic format of:
+Like fP desktop but for mobile.
 
-https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`
+## How to install
+
+1. Open Discord with TypeScript clients.
+2. Go to **Settings/Plugins**.
+3. Paste this URL plugins:
+
+```
+https://gujarathisampath.github.io/fakeProfile-mobile-plugin/
+```
+
+4. Active plugin and feauture in plugin setting
+
+## More infomation
+
+- Join [Discord server](https://discord.gg/ffmkewQ4R7) for support and new updates.
