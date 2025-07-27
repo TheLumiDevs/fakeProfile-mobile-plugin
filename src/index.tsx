@@ -185,10 +185,11 @@ export const onLoad = async () => {
         const decoration = data[user?.id];
         if (decoration?.decoration) {
           const decor = decorationsData[decoration.decoration];
-          user.avatarDecoration = {
-            asset: decor.asset,
-            skuId: decor?.skuId,
-          };
+          if (decor)
+            user.avatarDecoration = {
+              asset: decor?.asset,
+              skuId: decor?.skuId,
+            };
         }
         user.avatarDecorationData = user.avatarDecoration;
       }
